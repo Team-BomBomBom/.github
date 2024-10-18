@@ -12,3 +12,5 @@
 ## 🌪️ Event Storming 🌪️
 ![Event_Storming](https://github.com/Team-BomBomBom/.github/assets/45088611/2fa1ee87-0712-4773-9401-eca2f0104a48)
 
+## Architecture
+![image](https://github.com/user-attachments/assets/44082891-ab4c-4ea0-977a-5bf21e148ece)
